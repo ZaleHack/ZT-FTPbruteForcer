@@ -1,5 +1,5 @@
 # ZT-FTPbruteForcer
-This script will do brute force attack
+This script will do FTP brute force attack
 
 
 # Download and Usage :
